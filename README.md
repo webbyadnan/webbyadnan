@@ -23,7 +23,7 @@ I recently finalized a comprehensive professional portfolio featuring 5 premium 
 - **🌐 NexConnect API**: Interactive Swagger-style developer documentation.
 - **📝 Insight Blog**: Minimalist, typography-focused CMS.
 
-👉 **View the code here:** [Portfolio-1 Repository](https://github.com/webbyadnan/Portfolio-1)
+
 
 ---
 
@@ -40,7 +40,7 @@ I recently finalized a comprehensive professional portfolio featuring 5 premium 
 
 - 📧 Email: adnan.khan114@yahoo.com
 - 📍 Location: Mingora, Pakistan
-- 💼 LinkedIn: [Your LinkedIn Profile Link]
+
 
 ---
 <p align="center">
